@@ -49,5 +49,6 @@ Time Series Forecasting (Power BI built-in)
 Donut, Line, and Scatter visualizations
 
 
+<img width="1295" height="716" alt="image" src="https://github.com/user-attachments/assets/8e65befd-2799-4e2f-9bcf-2aea71d67b40" />
 
 
